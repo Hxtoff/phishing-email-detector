@@ -11,7 +11,7 @@ An AI-powered tool to detect phishing emails using NLP and machine learning, bui
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/phishing-email-detector.git
+   git clone https://github.com/Hxtoff/phishing-email-detector.git
    cd phishing-email-detector
    ```
 2. Set up a virtual environment:
